@@ -6,6 +6,16 @@ CalAi is a Kotlin and Jetpack Compose voice calendar assistant. Speak or type a 
 - **Choose event image** adds a photo to the event card on this device.
 - Rescheduling, deleting, and changing reminders show a review screen before applying the change.
 
+## Screenshots
+
+| Splash screen | Create an event | Voice input |
+| :---: | :---: | :---: |
+| <img src="docs/screenshots/ai2.jpg" alt="CalAi splash screen with a purple calendar and AI sparkle" width="220"> | <img src="docs/screenshots/ai1.jpg" alt="Create event form with an image picker and voice controls" width="220"> | <img src="docs/screenshots/ai4.jpg" alt="Google speech recognition listening for a calendar command" width="220"> |
+
+| Dictate a note | Calendar connection |
+| :---: | :---: |
+| <img src="docs/screenshots/ai3.jpg" alt="Expanded voice note editor above the agenda" width="220"> | <img src="docs/screenshots/ai5.jpg" alt="Demo calendar with the option to connect Google Calendar" width="220"> |
+
 ## Run the app
 
 Open this folder in Android Studio, sync Gradle, and run the `app` configuration. Install Android SDK 36 with minor API level 1 if Android Studio requests it. Use a phone or emulator running Android 7.0 (API 24) or newer. Google Calendar authorization requires Google Play services. The Speak button uses the device's speech recognition activity.
