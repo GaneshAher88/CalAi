@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CalAi</string>
+    <string name="gemini_model" translatable="false">gemini-3.5-flash-lite</string>
+</resources>
